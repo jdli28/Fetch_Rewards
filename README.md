@@ -3,7 +3,9 @@ Fetch Rewards Coding Exercise - Data Analyst
 
 SQL Dialect: MySQL WorkBench
 
-Data: fetch_reward_data.sql
+Data Preprocessing: Fetch_Rewards_Data_Preprocessing.ipynb
+
+Data Schema & Tables: fetch_reward_data.sql
 
 Code: fetch_reward_code.sql
 
