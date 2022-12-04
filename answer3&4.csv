@@ -1,0 +1,3 @@
+rewardsReceiptStatus,"sum(CAST(purchasedItemCount AS DECIMAL))","avg(CAST(totalSpent AS DECIMAL))"
+REJECTED,173,23.3521
+FINISHED,8184,80.8629
